@@ -1,0 +1,41 @@
+* {
+  /* global selector here */
+}
+body {
+  /* body is the parent of most elements */
+  /* background-color: #e2e8f0; */
+  background-color: #f1f5f9;
+  color: #0284c7;
+  font-family: "Lato", sans-serif;
+}
+.hidden {
+  display: none !important;
+}
+
+.fact-form {
+  background-color: #cffafe;
+}
+h1 {
+  font-size: 42px;
+  text-transform: capitalize;
+  text-align: center;
+  font-family: "Kalnia Glaze", serif;
+}
+
+.facts {
+  font-size: 20px;
+  /* 140% */
+  line-height: 1.4;
+  background-color: #cffafe;
+}
+
+.tag {
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: "Lato", sans-serif;
+}
+
+ul {
+  list-style: none;
+}
